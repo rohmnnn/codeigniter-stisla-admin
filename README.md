@@ -14,8 +14,8 @@ $ yarn
 ### Configuration DB
 Create db **codeigniter_db** and then import *tb_user.sql*
 
-default user/pass admin
 ```sh
+default user/pass admin
 user : rohman@mail.com
 pass : nandacantik.
 ```
