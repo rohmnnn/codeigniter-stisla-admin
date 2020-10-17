@@ -27,4 +27,5 @@ pass : nandacantik.
 ![alt text](https://1.bp.blogspot.com/-LiyhVW8mnDE/X4sA2kmDmoI/AAAAAAAAAHo/XjG7VxuTrb4INt1p4APQhr3SlNK3kscOgCLcBGAsYHQ/s1920/2.PNG)
 ![alt text](https://1.bp.blogspot.com/-CenCtjHx5Sg/X4sA2smeKPI/AAAAAAAAAHs/-6_jpoJTKHczVYvMDH75zTCvy5OT2aZDQCLcBGAsYHQ/s1920/3.PNG)
 
-
+### MIT License
+[MIT](https://github.com/rohmnnn/codeigniter-stisla-admin/blob/master/license.txt)
