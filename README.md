@@ -21,7 +21,7 @@ pass : nandacantik.
 ```
 
 ### '3')
-[Stisla v2.2.0](https://getstisla.com/)
+[Stisla v2.2.0](https://getstisla.com/)  
 [Codeigniter v3.11](https://codeigniter.com/download)
 
 ### Screenshoot
