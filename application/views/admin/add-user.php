@@ -31,7 +31,7 @@
                         ?>
                         <form method="POST" action="<?php echo base_url(); ?>/register/proses1">
                             <div class="card-header">
-                                <h4>Edit User</h4>
+                                <h4>Add User</h4>
                             </div>
                             <div class="card-body">
                                 <?php
