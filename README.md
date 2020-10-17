@@ -14,6 +14,11 @@ $ yarn
 ### Configuration DB
 Create db **codeigniter_db** and then import *tb_user.sql*
 
+```sh
+user : rohman@mail.com
+pass : nandacantik.
+```
+
 ### Screenshoot
 
 ![alt text](https://1.bp.blogspot.com/-wwFkR4HeQw0/X4sA3r9FNGI/AAAAAAAAAH0/daw6ee5k9KMetS8TUCbbV1AZKZfz7hl5gCLcBGAsYHQ/s1920/4.PNG)
