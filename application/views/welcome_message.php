@@ -61,7 +61,42 @@
 		border: 1px solid #D0D0D0;
 		box-shadow: 0 0 8px #D0D0D0;
 	}
+
+	ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+	}
+
+	li {
+		float: left;
+	}
+
+	li:last-child {
+		border-right: none;
+	}
+
+	li a {
+		display: block;
+		color: #4F5155;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+
 </style>
+
+<?php if (empty($this->session->userdata('is_login')))
+ { ?><ul>
+	<li style="float:right"><a href="<?php base_url();?>index.php/login">Login</a></li>
+	<li style="float:right"><a href="<?php base_url();?>index.php/register">Register</a></li>
+	</ul>
+<?php } else { ?>
+	<ul>
+  <li style="float:right"><a href="<?php base_url();?>index.php/dashboard">Dashboard</a></li>
+</ul>
+<?php }; ?>
 <div id="container">
 	<h1>Welcome to CodeIgniter!</h1>
 
